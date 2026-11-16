@@ -1,6 +1,6 @@
-# Fang Viper Links
+# Drevaunt Links
 
-Link-in-bio page for Fang Viper: the store, the journal and every social channel. Plain HTML, hosted free on GitHub Pages.
+Link-in-bio page for Drevaunt: the store, the journal and every social channel. Plain HTML, hosted free on GitHub Pages.
 
 Live site: https://links.fangviper.com/
 
